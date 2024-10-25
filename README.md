@@ -5,13 +5,7 @@
 ### 📧 How to reach me: bungamagelang57@gmail.com
 
 ## Currently Learning
-- 🌐 HTML
-- 🎨 CSS
-- 🐘 PHP
-- 🅱️ Bootstrap
-- 🌟 Laravel
-- 🗄️ MySQL
-- 🎨 Figma
+- 🌐 Web Development (React & Laravel)
 - 📱 Android App Development
-- 🐍 Python
+- 🐍 Python Programming
 - 🧑‍💻 Game Development
